@@ -1,0 +1,11 @@
+Asset,ProjectName,OrderPrice,dividendTime
+//extract price from https://launchpad.binance.com/en/records
+WRX,WazirX-BNBSession,0.00108401,2020-02-03,20:20:28
+KAVA,KAVA-BNBSession,0.02581369,2019-10-23 21:43:53
+BAND,BAND-BNBSession,0.02281717,2019-09-16 17:13:59
+PERL,Perlin-BNBSession,0.00287844,2019-08-24 18:25:56
+WIN,WINk-BNBSession,0.00000455,2019-07-30 16:38:55
+ERD,Elrond-BNBSession,0.00001984,2019-07-01 16:44:10
+ONE,Harmony-BNBSession,0.000092,2019-05-27 16:09:33
+MATIC,Matic-BNBSession,0.000119,2019-04-24 20:46
+SAND,SAND distribution,0.00038758,2020-08-13 16:28:00

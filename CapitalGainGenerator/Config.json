@@ -1,0 +1,22 @@
+{
+
+  // supported all/account1,account2,account3/mySingleAccount
+  // no entry = all
+  "accounts": "all",
+
+  // supported AUD, USD
+  "currency": "AUD",
+
+  // supported Hifo, Lifo, Fifo
+  "methodology": "Lifo",
+
+  // format dd/MM as in 1st of july
+  "startOfFinancialYear": "01/07",
+
+  // format dd/MM/yyyy as in 31/10/2015
+  // this class is to represent when crypto where taxed in another country
+  // in the case we were paying tax abroad before
+  // it is applicable to Australia only
+  // remove this entry if it is not applicable
+  "newTaxCitizenStartDate": "09/01/2018"
+}

@@ -1,0 +1,6 @@
+Asset,Quantity,OriginTime,OriginTimeReadable,Comment
+// this file is used to populate funds origin when no Withdraw corresponds to a deposit. 
+//Without it cost for Deposed asset without a corresponding withdraw would have a cost of 0 and tha would make tax to pay higher
+// OriginTime will be used and the cost will be taken for the asset at this point in time
+REQ,10000,1512086400000,1/12/2017 12:00 AM,buying REQ
+BTC,0.09,1512086400000,1/12/2017 12:00 AM,buying BTC

@@ -1,0 +1,28 @@
+ExactTime,Price,DivDescription,Url
+// you should modify the first row of this file to get the same (long) time as the one as the corresponding Divididend in generated Dividends.json
+// for taxt purpose a delisting is like a trade and not like a (costly) dividend. Trade has a cost, dividend has a no cost (= 0) => more tax to pay on dividends
+// if multiple account with same dividend, one row per div per account here
+1585667612000,1 BULL = 1370.28 BUSD,BUSD distribution
+1585667924000,1 BEAR = 11.16 BUSD,BUSD distribution
+1585667318000,1 ETHBULL = 79.18 BUSD,BUSD distribution
+1585666938000,1 ETHBEAR = 12.20 BUSD,BUSD distribution
+1585666577000,1 EOSBULL = 3.85 BUSD,BUSD distribution
+1585666363000,1 EOSBEAR = 30.21 BUSD,BUSD distribution
+1,1 BNBBULL = 57.21 BUSD,BUSD distribution, fake time =>we ignore this line
+2,1 BNBBEAR = 58.61 BUSD,BUSD distribution, fake time =>we ignore this line
+1585666204000,1 XRPBULL = 8.74 BUSD,BUSD distribution
+1585665914000,1 XRPBEAR = 548.55 BUSD,BUSD distribution
+1593198629000,1 USDS = 1 BUSD,BUSD distribution,https://www.binance.com/en/support/articles/52e0db956218405b8b5eda03012a0798
+1585794937000,1 DGD = 0.193054178 ETH,ETH distribution,https://www.binance.com/en/support/articles/360041070072
+1591773977000,1 STORM = 1 STMX,STMX distribution,https://www.binance.com/en/support/articles/360043990532
+1542337090000,1 BCC = 1 BCHABC,BCC BCHABC Distribution(1:1),https://www.binance.com/en/support/articles/360019875411-Binance-Has-Distributed-Bitcoin-Cash-ABC-BCHABC--Bitcoin-Cash-SV-BCHSV-and-Will-Open-Trading
+1542334425000,1 BCC = 1 BCHABC,BCC BCHABC Distribution(1:1),https://www.binance.com/en/support/articles/360019875411-Binance-Has-Distributed-Bitcoin-Cash-ABC-BCHABC--Bitcoin-Cash-SV-BCHSV-and-Will-Open-Trading
+1542340277000,1 BCC = 1 BCHSV,BCC BCHSV Distribution(1:1),https://www.binance.com/en/support/articles/360019875411-Binance-Has-Distributed-Bitcoin-Cash-ABC-BCHABC--Bitcoin-Cash-SV-BCHSV-and-Will-Open-Trading
+1542338080000,1 BCC = 1 BCHSV,BCC BCHSV Distribution(1:1),https://www.binance.com/en/support/articles/360019875411-Binance-Has-Distributed-Bitcoin-Cash-ABC-BCHABC--Bitcoin-Cash-SV-BCHSV-and-Will-Open-Trading
+1534242790000,1 RPX = 1 PHX,PHX PHB 1:1 Migration,https://www.binance.com/en/support/articles/360012507711
+1558601547000,1 PHX = 1 PHB,PHX PHB 1:1 Migration,https://www.binance.com/en/support/articles/360028589091
+1558601059000,1 PHX = 1 PHB,PHX PHB 1:1 Migration,https://www.binance.com/en/support/articles/360028589091
+1574926261000,1 BCHABC = 1 BCH,BCH distribution,https://www.binance.com/en/support/articles/360037219511
+1532417624000,1 VEN = 100 VET,VEN/VET Mainnet Swap(1:100) ,https://www.binance.com/en/support/articles/360008162992-binance-completes-ven-mainnet-swap-to-vet
+1534479862000,1 HSR = 1 HC,HSR-HC Mainnet Swap(1:1),https://www.binance.com/en/support/articles/360012489731
+1545655616000,1 BCN = 0.00000020 BTC,BCN Buyback(1BCN=0.00000020BTC),https://www.binance.com/en/support/articles/360021294611
