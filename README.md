@@ -9,6 +9,9 @@
 
 I created this software at the end of two years of trading. I'd gone to multiple companies who all charged in the thousands to calculate my tax - I figured there would be other people in the same position as me, so why not put it online for others? 
 
+This software has to be used at your own responsability. It is not replacing an accountant.  
+You are fully responsible for the data generated via this software.
+
 **What is included**
 
 - Fully Free
@@ -31,6 +34,8 @@ I created this software at the end of two years of trading. I'd gone to multiple
 - Capital gain per category (trade, fee, dividend, launchpad)
 - End of financial years portfolio
 - Current unrealized capital gain, with open cost history. Will track wich part of your unrealized will be on low tax.
+
+![alt text](https://github.com/plop44/CryptoTaxReturn/blob/master/CapitalGainGraph.PNG?raw=true)
 
 ## How to generate your tax report?
 
